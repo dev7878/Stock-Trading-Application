@@ -48,8 +48,7 @@ This Stock Trading Application is a web-based platform built using the Express.j
   ```
 - Additional endpoints and usage instructions can be found in the documentation.
 
-## API Documentation
-- API documentation can be generated using [API documentation tool name].
+
 
 ## Contributing
 Contributions to the project are welcome! Please follow these steps:
